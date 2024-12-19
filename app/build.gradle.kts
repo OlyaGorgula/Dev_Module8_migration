@@ -29,6 +29,7 @@ dependencies {
     // https://mvnrepository.com/artifact/org.flywaydb/flyway-core
     implementation("org.flywaydb:flyway-core:11.0.1")
     // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    annotationProcessor ("org.projectlombok:lombok:1.18.36")
     compileOnly("org.projectlombok:lombok:1.18.36")
 
 }
