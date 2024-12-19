@@ -1,0 +1,10 @@
+{
+  "dbUrl": "jdbc:h2:./megasoft-db",
+  "initDbSql": "./sql/init_db.sql",
+  "populateDbSql": "./sql/populate_db.sql",
+  "find_longest_projectDbSql": "./sql/find_longest_project.sql",
+  "find_max_projects_clientDbSql": "./sql/find_max_projects_client.sql",
+  "find_max_salary_workerDbSql": "./sql/find_max_salary_worker.sql",
+  "find_youngest_eldest_workersDbSql": "./sql/find_youngest_eldest_workers.sql",
+  "print_project_pricesDbSql": "./sql/print_project_prices.sql"
+}
